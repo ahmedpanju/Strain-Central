@@ -3,4 +3,4 @@
 
 ---
 
-
+**Research Folder:** This folder contains information about neural networks, examples of simplified neural networks, web scraping algorithms, as well as examples of various APIs.
